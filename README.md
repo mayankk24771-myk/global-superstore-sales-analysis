@@ -26,7 +26,9 @@ Analyze global retail sales data to identify key trends, high-performing regions
 - Seasonal spikes observed in Q4 sales
 - Discounts negatively impacted profitability
 
+- 
 ## 📊 Dashboard Preview
+
 ![Dashboard](images/dashboard.png)
 
 

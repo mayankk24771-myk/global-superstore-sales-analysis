@@ -28,12 +28,13 @@ Analyze global retail sales data to identify key trends, high-performing regions
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
-
-🔗 **Download Full Dashboard (PDF):**  
-[Click Here](deliverable/Global_Superstore_Sales_Dashboard.pdf)
 
 ## 🚀 Business Impact
 - Helps identify profitable products and regions
 - Supports pricing and discount strategies
 - Enables data-driven inventory planning
+
+
+Mayank Kumar
+Data Analyst 
+🔗 LinkedIn: https://www.linkedin.com/in/mayank-kumar123/

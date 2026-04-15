@@ -27,6 +27,7 @@ Analyze global retail sales data to identify key trends, high-performing regions
 - Discounts negatively impacted profitability
 
 ## 📊 Dashboard Preview
+![Dashboard](images/dashboard.png)
 
 
 ## 🚀 Business Impact

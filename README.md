@@ -29,7 +29,7 @@ Analyze global retail sales data to identify key trends, high-performing regions
 - 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard]Image/dashboard.png
 
 
 ## 🚀 Business Impact
